@@ -1,0 +1,12 @@
+D:\NetProject\Sever\Server\Server\bin\Debug\Server.exe.config
+D:\NetProject\Sever\Server\Server\bin\Debug\Server.exe
+D:\NetProject\Sever\Server\Server\bin\Debug\Server.pdb
+D:\NetProject\Sever\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\NetProject\Sever\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\NetProject\Sever\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\NetProject\Sever\Server\Server\obj\Debug\Server.exe
+D:\NetProject\Sever\Server\Server\obj\Debug\Server.pdb
+D:\NetProject\Sever\Server\Server\bin\Debug\LitJSON.dll
+D:\NetProject\Sever\Server\Server\obj\Debug\Server.csproj.CopyComplete
+D:\NetProject\Sever\Server\Server\bin\Debug\Newtonsoft.Json.dll
+D:\NetProject\Sever\Server\Server\bin\Debug\Newtonsoft.Json.xml

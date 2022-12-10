@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+
+
+//import "LanguageMessage.proto";
+
+message LoginC2S{
+	string account=1;
+	string password=2;
+}
+
+message LoginS2C{
+	string account=1;
+	string password=2;
+	repeated int32 test=3;
+}
+
